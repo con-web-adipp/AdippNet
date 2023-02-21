@@ -1,0 +1,5977 @@
+[
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "201907221804152574509.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0583606+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0583606+01:00",
+        "LastWriteTime": "2019-10-09T13:27:46+02:00"
+      }
+    ],
+    "FileSize": 28451,
+    "HasSound": false,
+    "Height": 221,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "AD31752DAB196093B3851A3BDB54B8E5",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 5,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "TVUBSGEeCDYyOwY0RRsCZiMsBJ0YKQWrW2gBIIJED2ZCVQ1pMVcfgTIsIWkaCzQ2RCVpDmFafiqWRn4oSnyzB1sXdgQ+AYUDaBh8LlE2rQaFOq8SR5SEBWZUWxt7H04ryjM3kpg0P0FoVDMwN3MnIUl0QTJkLCNVpKixIJUgTB1KPEUYKZYTXVdaHWYpKhsv",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "E92B1D0BD38A53B29FC84AC4118A182CBC2CDD34",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 385,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\201907221804152574509.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\201907221804152574509.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-01-31 13:42:02"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190131_134202.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9566319+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9586268+01:00",
+        "LastWriteTime": "2019-01-31T13:42:02+01:00"
+      }
+    ],
+    "FileSize": 463988,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "C36A783541407F6F57CC91DFC06A0004",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "JiGxCA5JuQJCGssDdAC0CDwCfg0lMTAiESYPRysPJFAuAjk6KgAbPx0jBlsTTAKRISWbEjYiwBw4EZwoOxWVGhOPTUYTMRI3LC+IOyBGZaA1GXO9HDY0tix5fUsFeJwSGs9BxxSXDdscBAS/JwoEmJoKGLc5OUh3BqUrngkYQBcVAzQGHQIdBTQAExgvAAM/",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "F372C0B7A040531D2D0D991E95AB5A6BBE402E39",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190131_134202.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190131_134202.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-08-09 10:37:15"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190809_103715.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9626159+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9636133+01:00",
+        "LastWriteTime": "2019-08-09T10:37:16+02:00"
+      }
+    ],
+    "FileSize": 288864,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "8A440D80DCDB6BA2DC2FC38E97165F14",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 2,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "ZhhyBx47OBMfKm4LNwKyBSsK/wYDdcoHfCyfAghkiAYVQjAEXQwUEkImIrEnl0mzFh8qLwFlOx0IRHEJNx50DAtps0NND75PDQ+TEgwiohoPEtQmEwfaHRYR8A4NCeoBmR8ZShFeRTYrBEQ7JgU+JikHMgYEeBE/wg0TXy4cVDoJA2csEgpDLgk0DF8AywuH",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "411F46F0E2DD5D6BCC45F0F986CDC02B49EB5B0E",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190809_103715.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190809_103715.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-01-31 13:40:53"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190131_134053.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9536393+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9556344+01:00",
+        "LastWriteTime": "2019-01-31T13:40:54+01:00"
+      }
+    ],
+    "FileSize": 362064,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "4914AB00DABB1D2CDE63C275097FFA05",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "CAAALAUAADEHAAAtBAAAKgIAACgBAAAiIQEAfxMEAHoXAQBxEAAAVwcAAD4CAAAzThERZicKA1EeBAZKLQUTVhUNBWQGGQJpMm9/CnBJXyWPO54eioTwIleueTZgH5QkUu0wNuGJNi//W50XiJ91G2XZqgexK4ICJMEyNrsmmyW9JVgZNzkpFRxDSQs1DC8U",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "225A8187CEBDAD1061A310A677035DD992980CB0",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190131_134053.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190131_134053.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "11--der-schauspieler-wird-vom-pech-verfolgt---1-1---spoton-article-717250.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9037732+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9037732+01:00",
+        "LastWriteTime": "2019-09-26T16:43:06+02:00"
+      }
+    ],
+    "FileSize": 44242,
+    "HasSound": false,
+    "Height": 622,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "43F3C4494ED60729581C193C423199E0",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 7,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "EUAiHUU8uhchFYZeHUB8WirFdwzZDQ0MGB4fFBh6HEEFWAuNbAwLhHDiNyr0NBILHBobGwmVFCwNP0QcSA43ImKkDTnuOAwLDDcdGgl9IzAqLz4lHx5iIEuBLB//JiUIE2gOHXuQMlc+JnMSHiVPFkizOizOQywfEV4aA2SIUUFhFRt1C1QZW2BvZVRrOWcs",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "B17BA5F324F78742594DB042F217F56AE15BE02D",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 622,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\11--der-schauspieler-wird-vom-pech-verfolgt---1-1---spoton-article-717250.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\11--der-schauspieler-wird-vom-pech-verfolgt---1-1---spoton-article-717250.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-09-26 16:27:03"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190926_162732.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9805678+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0374163+01:00",
+        "LastWriteTime": "2019-09-26T16:27:32+02:00"
+      }
+    ],
+    "FileSize": 454108,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": 52.4819450378418,
+    "Longitude": 13.388055801391602,
+    "Md5Hex": "C3EA7FB33F2C17BD8CA0EDBFD2BDA085",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 3,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "YTSgKEFCrmkUGn03EAB+CggGkQ0MC5sY8SYTVJxkVEUwHWsSJQJ5Ax0KgAIYC3EH7ioSFMNrKiBYHxMePAMcCxIaFhgJFgEv3SMtGpxyPFCLNCI2TiYfOhFqD2oQJgJ6inR2O3s6bl14KFs8JzgiRQM4NC0VOl4Yjr3FA5Fq2gV2WpMcFUQjDQgJGQROCUAL",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "017CA5A3698FD6222650FFAFB3050488241EDDCF",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190926_162732.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190926_162732.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-09-26 18:08:35"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190926_180835.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0384135+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0404076+01:00",
+        "LastWriteTime": "2019-09-26T18:08:36+02:00"
+      }
+    ],
+    "FileSize": 376812,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "F7DBC9AFFDE93079A0753F58AA7F6AD1",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "EfMlDGYjYCI3UoUPBppUCisdRwR/A54EFNYvHtglpjRbQek2Hdn/Drc7/xpqZ+0qMcGsCMEhvSlLKko/PE9hLjBdkIguRGtzFEmCFBgmYxsMECsIFhUnERkoahILHGwOARomAgMePwMFFEQABA4vAQcMIgcCDhIHAw0bAQgVHwQDFx4CAA8jAAEVJAQAFCEM",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "7452D5984EE66D69C6E1F1BED1A2ABDBACF89113",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190926_180835.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190926_180835.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-09-27 15:33:06"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190927_153327.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0573625+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0573625+01:00",
+        "LastWriteTime": "2019-09-27T15:36:00+02:00"
+      }
+    ],
+    "FileSize": 94352,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": 52.483612060546875,
+    "Longitude": 13.392499923706055,
+    "Md5Hex": "4B3E7748CFE4E9ACF8842623FCC80D68",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 3,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "/wA1U3cAAB8ldwAcCToAFikAABYjAAAW/wANG50CFAcukxIIBz0DCiYAABEmAAAV/wv/Ba4ObAoss2MKA1BOABoBGwEcAAoEMxTOBTxXglNKOIp1DMe7CBEhSgAIAzMACyAxTB+pmpCfH7HPPq85SA4xagEBGD0ABBg4BQmEYTwOHoSBUCB8eSAgVwoAKTgA",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "969E0A833B4D69263C726CBD4E0A44CF66058105",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 691,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190927_153327.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190927_153327.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-09-27 15:09:53"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190927_151012.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0404076+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0553675+01:00",
+        "LastWriteTime": "2019-09-27T15:10:12+02:00"
+      }
+    ],
+    "FileSize": 310098,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": 52.4827766418457,
+    "Longitude": 13.386666297912598,
+    "Md5Hex": "A3B64BF145D603C016D66754396BB8F2",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 6,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "eZYdK2S6U2f2RDhaTQMBDAIQAgMBFg8BTVxFBiVviQGbJ3QEQgQPDQkNHgYJBB8LEj6kFBJfwyw/VlsvoDknSC4xSRMfXxxBD04fRgVVPDQktyEy/34ROXdbJBN3/jE8Cmo+EwQ/LCIg4TFO/z44JmclGCdj3I8QADclAQNSTAQZjH4UXQpPEFIBATQ0LTAc",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "7D4294599F1FB0378162B4B800048BA635197E56",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190927_151012.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190927_151012.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-04-04 18:53:31"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190404_185331.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9596241+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9616181+01:00",
+        "LastWriteTime": "2019-04-04T18:53:32+02:00"
+      }
+    ],
+    "FileSize": 588226,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "C7BBD686F7DFEC7829B076FDFFCDAD60",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 2,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "TwwmS3tCZ2NIJChseTUnUjpoPEkTXBFkYxSIIV82kUMwSnYywDJWRUWrVE9BVmM8XTF7QVo+gG9GO35ChU1uSUSGUDsxOlUrdipRHj1lSyNoU0UzqHI+MWKgOTgmZitAah1wCylceA1PPnkfg1dxHD+1TBggNlQTKho1VisrPzMwH28NODSfFiVGsAoUHsgC",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "FAA51ECF3FC94C6032A6B3D732102FA28DC016BF",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190404_185331.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190404_185331.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "9526337,L54+D4mqbsV9pq8gGqPeEIDmZmDLXKkcfpp7oBbpqvbFDpg9F5il47tIp3FRSO2V4fkXKHmSl1bm1vFIXebgSg==.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9466586+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9466586+01:00",
+        "LastWriteTime": "2019-09-27T14:11:28+02:00"
+      }
+    ],
+    "FileSize": 29637,
+    "HasSound": false,
+    "Height": 423,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "9C6DE911C791F0210830B35F3D72F5B9",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 10,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "A3wqBAQGKwBtCDYEgQ4jGUPNNC4BSioCAk8bMgMKIiFzByoyRBgXLhhjEUkEUSUPDgMASQkFAFGKBBFDXxk7EBd4URsjTSU+AwIADScFFhn/DuUVdXN3EXqSgwYV8LAeAQgBGbsDOhX/IHgRULY1DqIeYAsO6tcECgkVCv0CWgbjE1IKTXBzB0oOQwwOHRAi",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "66B397C297CCF8DAAE78B0F68997674C7BF20358",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 632,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\9526337,L54+D4mqbsV9pq8gGqPeEIDmZmDLXKkcfpp7oBbpqvbFDpg9F5il47tIp3FRSO2V4fkXKHmSl1bm1vFIXebgSg==.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\9526337,L54+D4mqbsV9pq8gGqPeEIDmZmDLXKkcfpp7oBbpqvbFDpg9F5il47tIp3FRSO2V4fkXKHmSl1bm1vFIXebgSg==.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "2c63ff60658f3cb3c4bb68fc50acb6e5.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8957951+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8957951+01:00",
+        "LastWriteTime": "2019-09-26T16:44:44+02:00"
+      }
+    ],
+    "FileSize": 43206,
+    "HasSound": false,
+    "Height": 354,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "AD900EC4D211CFEEE447C199C173D90A",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 2,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "bFU0VF1QJ2BFHiE5IlETMj0rF0wyI18ZNoCOLHY1cDY7O1siS2V9M09TijlsEzkZNLosRowpSCIjMzoWQ3EqTZuCTX5kNV4Kj0CoE2xcmg0daicUXHpVK+CCbxJmRTABsgQzKxE9OwQJnD0FkIMYKNmSHR5YMwgMthgnKxMdBhQBmQweX2MPJ6RRYDQ4Uwwh",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "96534DF1682C4C96E76D97BBB0C13E8FE651F359",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 500,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\2c63ff60658f3cb3c4bb68fc50acb6e5.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\2c63ff60658f3cb3c4bb68fc50acb6e5.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G800F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-09-06 08:20:29"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G800FXXU1CRG3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190906_082029.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9646104+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9795714+01:00",
+        "LastWriteTime": "2019-09-06T08:20:30+02:00"
+      }
+    ],
+    "FileSize": 433588,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "92CF9E7A94DB27A336F9DC15B10C47DC",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "BPgCKQ0BAEELAABBCQAAQQgAAEL/AAEuA/8eJA0DIj4MACVBCgAeQgsAG0L/ABknJc7/AxMV/wUWHP8IFQ3/DhQJ/wzyFf8IigVVDREbfwkHUIAINRpcJi4PemIiJ2c9nBARMhUbFG8QRiRSGzsbGSgKIhoxAyEJNRoiYCEYJGY2FBE5Hh8gFjkHIyElAhgV",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "9A6EC62FBBA35403B0851DD2B497C8858DEB41D0",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190906_082029.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190906_082029.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "alex-winter-keanu-reeves-bill-and-teds-excellent-adventure-1561998072.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0593568+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0723219+01:00",
+        "LastWriteTime": "2019-09-26T16:35:48+02:00"
+      }
+    ],
+    "FileSize": 40267,
+    "HasSound": false,
+    "Height": 477,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "9AFBB6A074624D4B7C696515F8CE3E3F",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 5,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "dxFXCRZQYz5KVldqfFLMKEpInQ1Rl3JTID0bZw9pH6iIOl5/jw5VFBE2G00VoWokA3cdUB88JkjsIEZbUWoYWih9F6J9ah6tHjchLQtbLy9xIBlnmUcXjRaQJjEteCFsQRsMkywrIFRJC1kHQU1DUhRkGJ1YSDcwEVszFZcJLjA4Bi8EFk1MGh1mnB2CJoAM",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "0A936A0C3DD18BFE0B27133A67A8D023A6441039",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 480,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\alex-winter-keanu-reeves-bill-and-teds-excellent-adventure-1561998072.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\alex-winter-keanu-reeves-bill-and-teds-excellent-adventure-1561998072.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "Google"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "canon 17.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0743173+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0743173+01:00",
+        "LastWriteTime": "2019-10-09T13:27:04+02:00"
+      }
+    ],
+    "FileSize": 113717,
+    "HasSound": false,
+    "Height": 480,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "7DD13AD5C92B4375352C5A7A38440B8A",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "F19GMRpQaxkkX0cdOS1qWS0qg2orG6pxIkBUfjQxXZVLW1NhXCeJXiQ4b28aBlR1NbBoOz47hDQjW3MqWCRUSB5XYzU/C2AyHWtqUCU2N3QkMCpXMyIoTzM5NEpWCHMrWnZ2ayZN1w4XLdQJLTvFDpsj1hVbO5VJYhw2IEMQKVYhEU9AGCV9JSZJSVoDmQSj",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "B06B719F733AE6F45A0D9A4BE12DC3648C392C9B",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 720,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\canon 17.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\canon 17.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "dims.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0783064+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0783064+01:00",
+        "LastWriteTime": "2019-09-26T16:36:02+02:00"
+      }
+    ],
+    "FileSize": 92559,
+    "HasSound": false,
+    "Height": 655,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "7F9B18179DBE586DD427CA5C5BC0C3A5",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "MyYEBE0bBRsgVwwtOBoSJg0eCxYbExEWOR8tAS9hFFBWOhSdQhkqGw0lFQ8TIxUcRR4qAgv/FVanTQ7NvA0ZYw0VHA8FERwDPRgLAAD/UAqrcEYa7gItIxQRGhIPDBMISQsBDgL/OVZTqEdp/w0IyUANDnIYBxAbKCwASwf/Ab0lawSRthkAaWAIANt7AgKj",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "4FC5E1E5964FA301FAFA5F31DC0C783F20BBFD1C",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1000,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\dims.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\dims.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "ImageUniqueId",
+        "Value": "xmp.did:15c21ba8-09ce-467d-b22d-ff1ccf11e39c, xmp.did:85AA6A57F55411E7B70AA72E36C2870A"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "Adobe Photoshop CC (Macintosh)"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "factory04.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0803002+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0812983+01:00",
+        "LastWriteTime": "2019-10-09T13:27:24+02:00"
+      }
+    ],
+    "FileSize": 267486,
+    "HasSound": false,
+    "Height": 768,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "C25EA7D6B610363CC226C74023E8D932",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "JjBXGAtkSBkDWjEJJR4VC2gDGS0cSRswR3hBSUiNLV8OdlkHPj0pC2wEUxZKHYQKC75FHs6cSjUvgoMzY3OKJpEIgkdUJWRTMYw/d5V4czIpmg15XWELo6cTM2hLPD0zPy1NEDabRDIEyAVuPjQDIPcBCFpuRBQrGEwWNBKpCI4AZAoaKiIJAoABCTt3FgCw",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "BE8D83E77AC1D4E8CC6B81E57D7837D47A760444",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1366,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\factory04.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\factory04.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "Canon"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "Canon EOS 5D"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2007-05-11 10:44:44"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "Digital Photo Professional"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 1,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Day%20246-4.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0753146+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0753146+01:00",
+        "LastWriteTime": "2019-10-09T13:27:16+02:00"
+      }
+    ],
+    "FileSize": 519687,
+    "HasSound": false,
+    "Height": 500,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "11B1C6E76A1D0CD4D479369DEBD3C1F9",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 2,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "KzSXAgxynQgdSmAnQxNrHmUEpRVNBJ4vCkgeHhY+VBcja686P0x5ijY0Ndg+HxirDVEXNxkxHWMYhCdyK01rRDdGfCemDFQNGl8TWDh6IItTSjJgezphSzhHejZrEWRWCXENZh6FBo5wKQmM1kwafFPqCoc7EQO7AGoLQwMwDhs3Cwoseh8MTTKWCkslBgcG",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "FE783ABA079F6AAF37D5FF46011CA28DDB710527",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 750,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Day%20246-4.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Day%20246-4.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "images2W8KEM74.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0842917+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.1032393+01:00",
+        "LastWriteTime": "2019-09-26T16:33:04+02:00"
+      }
+    ],
+    "FileSize": 6363,
+    "HasSound": false,
+    "Height": 274,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "192B448291BE09FD5CE2B4D8CEAEACA0",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "DjobIwmPqQYyH/8RDTv/BjUn0QAwMakAPBQbPyxORBxIckK4Wjg8dDktegoQRFQJURsqQTuHFE8qxUtvoTYj7JANJsEkRSMvUSI4SDBnJGIcll4mI24vKs4XG5dZIwmlJUcXjyk1EpIWYyilEVgzPy4OPExLCRpnBRQHGAsOHBwYJV4vMCp/FQojMwgDEA0D",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "A5C2CB3B38466265F4FAF64933CD33738B9BBE00",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 2,
+    "Width": 184,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\images2W8KEM74.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\images2W8KEM74.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "DowraSG_Dowra1e.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0793035+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0793035+01:00",
+        "LastWriteTime": "2019-10-09T13:25:22+02:00"
+      }
+    ],
+    "FileSize": 660996,
+    "HasSound": false,
+    "Height": 1836,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "E2697DD3E20078E4F0C1CBAC8EC8A761",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 4,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "HBAHOWAaED9rpBkPXxYlFiI9NxJtaS0cIB8UJ4ArKDRlp0ZDayAXgxc8FLtXWBl1RCFmGagxgx5UuKBaMnCRPTk6lT5MQpk3bDGTIV9FbEpnmX5FdEy9VEBN2kIsYKUfOD5fGUKIjF6ZO4w1VFezTEsvgCsgOVAQFBMJGh0kQRwqEiUwGRQZMxcQDh4ICggY",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "71A8F008B47B421EA8CA5B5815F7C6B5328CDC5C",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 2448,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\DowraSG_Dowra1e.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\DowraSG_Dowra1e.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 100"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "hallenbad_jlich_2018_300dpi-4-nzht8ojapqctv05vustidrhm4ikyegtptcy814ycus.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0822962+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0822962+01:00",
+        "LastWriteTime": "2019-10-09T13:22:42+02:00"
+      }
+    ],
+    "FileSize": 444668,
+    "HasSound": false,
+    "Height": 450,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "1DBF8EBA1790D00F8C5A54FCCF004443",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "MXN6WDJHy1kOyaEwEF9ADnYWFiExMQ84pTgXXSMoLkoPfFEkF1iMCUYjmhMzMjYq3xwOQy0wFE8rODA7Iy9NHw9qQjNIWTBnljwnknJHT3J3N0ZRNFVBTBCYI5oEYAtorhx7GIFlfxVFPR5GJs0h0gFgAHYAEwAdhwAQFJJpRjsF0RySAVQAZwAKABMABAAK",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "FCDFB9B61BD99D4BF728BD778E8BC14B6D8ED74F",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1200,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\hallenbad_jlich_2018_300dpi-4-nzht8ojapqctv05vustidrhm4ikyegtptcy814ycus.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\hallenbad_jlich_2018_300dpi-4-nzht8ojapqctv05vustidrhm4ikyegtptcy814ycus.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Title",
+        "Value": "Keanu Reeves 1987, Contributor"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "Keanu Reeves during the filming of Bill and Ted's Excellent Adventure (Photo by Aaron Rapoport/Corbis via Getty Images)"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "1987-01-01 00:00:00"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "Adobe Photoshop CC 2018 Macintosh"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "image.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0832937+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0832937+01:00",
+        "LastWriteTime": "2019-09-26T16:33:28+02:00"
+      }
+    ],
+    "FileSize": 36482,
+    "HasSound": false,
+    "Height": 597,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "5509F39A6693EF3A48BF209E2E599A26",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "DzocJAqQpwYxH/8RDTr/BjUn0QAyMagAPBQcQC1NRB1HckO3Wzg8dDouewoRRFQJURwrQjyGFU4qxkxwojcj648NJsEkRSQvUiI4RzFnI2Idll8nIm4wKs4YG5ZaIwmlJkcXjyk2EpIWYyikEVkzPy0PO0xLCRpnBhUIGQsOHBwXJV0vMCmAFQojNAgDEA0D",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "C296279E5F1075C64D4B69BBFA7450979653FFBA",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 2,
+    "Width": 400,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\image.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\image.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "images83PV2X9P.jpg",
+        "CreationTime": "2022-02-22T15:05:37.1052341+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.1052341+01:00",
+        "LastWriteTime": "2019-09-26T16:45:50+02:00"
+      }
+    ],
+    "FileSize": 7540,
+    "HasSound": false,
+    "Height": 183,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "050BA04071865F9B2A067AB30F5177C3",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "BSQKOSBtGWCJpyCwhw0eIiYgJhkPDBQQEx4yEh5+Qxm/sHcbgAUnEQkqECsoUiNuDw8MBQNcDTRIPUoiVygIXEVvSHlbH2IfCUYDJhlMAkkbVQs/lkpThmsWZBsIBA8AKPMTe7Z2P2wyjxp/+SRPJRMCCwAAAQIAdf9Jf4nBYHaKaluY3wlJFgcCAgEAAwEA",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "EBF66174B48D6A6C28D7841995AB3F6A361D0A46",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 275,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\images83PV2X9P.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\images83PV2X9P.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "imagesAE39ON6L.jpg",
+        "CreationTime": "2022-02-22T15:05:37.1062318+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.1062318+01:00",
+        "LastWriteTime": "2019-09-27T14:11:22+02:00"
+      }
+    ],
+    "FileSize": 5848,
+    "HasSound": false,
+    "Height": 154,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "1D8924EEC4C72F7A189435D5018E54E8",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 10,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "DqwMSDQuB0ixFg18FVMjQqQMIA0aAAQBANcmDChVIx7WFidWVVZCH5oLNAgdAAMGHM4nYyxtViGuDjwjhU4ZL34MHggZBAEMIv+bF1xFVh9tCYMMZRd2Bz8NIQkRBQQEBf8zPVhfJanKBCd/NBcjEBkSEBgPBwMJAr8+aTnWXnj/AwWXbRIEOxciDyEXBwYP",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "52E09E651BE9886AC5497639C275617E87D9F80A",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 220,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesAE39ON6L.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesAE39ON6L.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "SONY"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "NEX-6"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "ImageUniqueId",
+        "Value": "adobe:docid:photoshop:6ae30c56-ab50-11e7-a404-a383c7cffce8, B7294F87C5D251EC37F92F511E8DE268"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2017-10-05 00:00:00"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "Adobe Photoshop CC 2014 (Windows), NEX-6 v1.03"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 2,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "depositphotos_169979370-stock-photo-sultan-ahmet-mosque-interior-istanbul.jpg",
+        "CreationTime": "2022-02-22T15:05:37.0763122+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.0773099+01:00",
+        "LastWriteTime": "2019-09-27T15:06:18+02:00"
+      }
+    ],
+    "FileSize": 387270,
+    "HasSound": false,
+    "Height": 1163,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "328E2D66EC1F2B1C53D8F95C61FCA6AB",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 9,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "EFIgU1EOF1gyJhI3Ig4OaD80JYMffyMgNyZDIEshdxgwPjcaPSxOQGc2e0IpdU8buihNoWZWbooxZyY2ah1VNy8zNlFOSys8ektoY5gVWHtQXk8qVT1ZNh9DOUBZNEJJRGdsN5MhTGtVSFRvUVs6gkkkZGNyGGo6CYxBSl8XjX0sKZqWKyyxnEEIqL84B02b",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "240DF63DED8514A93F5FA736C03097A59F3F88F2",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1600,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\depositphotos_169979370-stock-photo-sultan-ahmet-mosque-interior-istanbul.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\depositphotos_169979370-stock-photo-sultan-ahmet-mosque-interior-istanbul.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "imagesPMH10MX7.jpg",
+        "CreationTime": "2022-02-22T15:05:37.1112193+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.1122153+01:00",
+        "LastWriteTime": "2019-09-26T16:45:22+02:00"
+      }
+    ],
+    "FileSize": 10701,
+    "HasSound": false,
+    "Height": 168,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "B6F80EDB087553C8F2EDC858A5AD23A2",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 3,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "ImwWTEooEGJoBhhRITJGITQuegdCFS4KPZE6DTViIjL2ByosQRgyEiAdMxAQMx0QRXpWCD6qWgv/GzQYSicrFh43FDwqJRgeWHcgDU2eVgbGEGkGL2AoELWwHmNTIT4JZoISHo+FIxWKFSQNJ3sODf/xHBRiEQYLVWYKho5gG1FdGAuCJFUDbM7GLSxWCggg",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "FF7A7F415A39C2D5FCBDA8937073A1840A0289AF",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 300,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesPMH10MX7.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesPMH10MX7.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "imagesOS7EBKRV.jpg",
+        "CreationTime": "2022-02-22T15:05:37.1102205+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.1102205+01:00",
+        "LastWriteTime": "2019-09-26T16:07:34+02:00"
+      }
+    ],
+    "FileSize": 7533,
+    "HasSound": false,
+    "Height": 168,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "E5F0994223F257237321DDEE9D675791",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "HioNByIdFwNFUTlOG5BQQRwpbQA7OYYELTAJECQeDQhH/0ZpwnQ+dkgpLQgqaSMLUiAaJykYHAUnwVM9dFhTM2U3JxckghFAhkkoc1YRNhYz2lcYhFx0EVl5RDA/tVKEzHmBQY4QJxIOVD0WPjlZFxnxXUlApj2hcyNbFyEPGAcAGA8EKyUaCRGrVwMc22oU",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "1CB00F12D6145DF7343169A70A7FB741E5F3ADB5",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 300,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesOS7EBKRV.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesOS7EBKRV.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "imagesNVR9T50S.jpg",
+        "CreationTime": "2022-02-22T15:05:37.108226+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.1092234+01:00",
+        "LastWriteTime": "2019-09-26T16:32:52+02:00"
+      }
+    ],
+    "FileSize": 5599,
+    "HasSound": false,
+    "Height": 205,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "6232F05DA80AB2400151648DC244C30C",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 11,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "LTMbD28YbwMHrxaQUzAR/1c7F3cKBAITcBgbD19GLBcE/yY7UzFpKqwHRjY7AXcHsR02JE2OHmsjvTVLVDN0U7QYNjF/BCQD0hceSD+HYRcQkI0NRjWCHq0fWRJ/BgMA0QkrFFJHJRIiYV4XQFODGHxcIhx7BwIBpgQoJklMDSdTOxQ7IFFSJFNrHiFyAwFt",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "984520D525A62DD25CAE4890036CFF25A4AD11D0",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 2,
+    "Width": 246,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesNVR9T50S.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesNVR9T50S.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "imagesV81I0EAY.jpg",
+        "CreationTime": "2022-02-22T15:05:37.1132136+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.1132136+01:00",
+        "LastWriteTime": "2019-09-26T16:35:18+02:00"
+      }
+    ],
+    "FileSize": 10103,
+    "HasSound": false,
+    "Height": 225,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "20B6D44AE388E4BC07A4F92BF2C1C643",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 7,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "QhMyLQ5GOjMXXxxIPFdeYT1Wg2IRQ1VqTRMVMG1nXz1IvVwvxHOPJ5+MvEAduv8Zax1vIXxSbgdRuV8Sb0xRTYtTcl5XGGMZXwZrAxo8OAcSe2ckQUB3MH0YYQ8+CTsDUgAJDgg+FBMQiiZRQzgXqJILF0wuDwoIWwQHDxNCDx0EyBlJYEkvQckBNiIkMwog",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "DC975DC3A6382BE0D8B6BE8D41B87D423611FE40",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 225,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesV81I0EAY.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesV81I0EAY.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "imagesLNIBR8R0.jpg",
+        "CreationTime": "2022-02-22T15:05:37.1072297+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.108226+01:00",
+        "LastWriteTime": "2019-09-26T16:34:08+02:00"
+      }
+    ],
+    "FileSize": 8722,
+    "HasSound": false,
+    "Height": 275,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "C9959BF077E7DF67CD14D6570D24A093",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 2,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "CBAsGQwJJCE3EjosjxdLVx6KOCQRERMHLSVGc1EriC55P64RcThXOC+MahkLOj4R/w3/bGEUoBYpUj4SY1hRIz4vORQJrG8z9AUt7FMUEIwjNhM/TjogMTEwHRkE6C9QoBi9QaAel1lNJ10nMiBpDiwgMA8CfHUUNRSaRFNcRGZCBhMgDwoTBQMyA1ABKg+Z",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "211E55DF9BC52EB380E87FB8DA05079D861B37C0",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 2,
+    "Width": 183,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesLNIBR8R0.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesLNIBR8R0.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "imagesWOPFAAV3.jpg",
+        "CreationTime": "2022-02-22T15:05:37.1142101+01:00",
+        "LastAccessTime": "2022-02-22T15:05:37.1142101+01:00",
+        "LastWriteTime": "2019-09-26T16:44:30+02:00"
+      }
+    ],
+    "FileSize": 9399,
+    "HasSound": false,
+    "Height": 194,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "78EAF3A406372C6A831226470E359F95",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 7,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "aCUITysXDHkaGApxLggNYRMfDDwkCxEthCgiNEo+VD0id1A9ei8ifUlIKGBDGxBiklZQNsFRXDs9rU8egWlDL4BpdR97XWEqXJJjQ7pYOpcstCZdtGE3OH4qOxE8KGIAFqhGGcpimB5YvWwS0oteJYcLHwgIIhMQCBcfAS4TSxEeREkVbnWECFUOHAgGYwYZ",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "327AFA145ED1EFFFFF5B94D2FC79D5EC5372DC08",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 259,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesWOPFAAV3.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\imagesWOPFAAV3.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "john-wick-jpg--436edc869e7594fe-.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8329631+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8329631+01:00",
+        "LastWriteTime": "2019-09-26T16:09:10+02:00"
+      }
+    ],
+    "FileSize": 26083,
+    "HasSound": false,
+    "Height": 413,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "325ACD8907183642AD8D9C719E8C3EE0",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 6,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "CQkCByoSBgxfsBqE+QwTXCJIGRAAoBoEFgIAQzcRBB1fjFsd4xJTPUw8GioC5SIGRQQAVmUKARtBVChLjQw7a4gaFisN/y4RvQ5VOm4lNRpqRDojiRhjH10QKx0Yzj4c/xh1FT9caA2cHLIOYx2jEjIzOxsPQRwU/xB9VEpEQ02SCEITJCwkFxFICCoLGAUW",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "A3F48620F8E428DB736BC545D6B7F875C79E98C5",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 620,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\john-wick-jpg--436edc869e7594fe-.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\john-wick-jpg--436edc869e7594fe-.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "John_Wick_3_Suit__39623_zoom.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8249847+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8309689+01:00",
+        "LastWriteTime": "2019-09-26T16:09:28+02:00"
+      }
+    ],
+    "FileSize": 75437,
+    "HasSound": false,
+    "Height": 802,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "83C8DBCE7101006B9F2A34F4DEE7E6C5",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 5,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "UjEoPJM/SCZhcWp3RpJdQE1ZLAhrLRoGSRRcJJRRcVRjjnxpmUyiHCOQtQaVMTcGkxIzcmhVcWOPWpo0byY/HwKqHyO3NxIVNiVLM+QUNSNDPkA0KxUaMgSYRAhqVUE5NSJ7Gr0laBsteXc9dh5iPg84NQMUj24OMVw7PqMOIyQVHkUOHgxGDgw7JiAWYChG",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "E6E9A2DA8168AD64697FF86101C56F82AB952F41",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 624,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\John_Wick_3_Suit__39623_zoom.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\John_Wick_3_Suit__39623_zoom.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "keanu-reeves-2.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8339607+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.834958+01:00",
+        "LastWriteTime": "2019-09-26T16:33:06+02:00"
+      }
+    ],
+    "FileSize": 68354,
+    "HasSound": false,
+    "Height": 750,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "39D092418A0A5B9F9E0A49B15B7BCC60",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 11,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "LDIaDm8YcAMIrRaOUzES/1g9GHkKBAITbRcbD2BELBYE/yY8UjJoK60HRTg7AXYHrxw2JU2MHmwjvzVNVDR1U7MYNzGBBCUD0RceSD+HYBgQkI0ORjWBH60gWRKABgMA0AkqFFNHJRIiYF4XQFODGHxdJB18CAIBpQQoJklLDSZUPBQ7IVFTI1NrHiFzBAJr",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "C0F34C6D9C24B4AC34F6FE2D9D29FD0E769C6026",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 2,
+    "Width": 900,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-2.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-2.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "keanu-reeves-before-filming-bill-and-teds-excellent-news-photo-534269212-1559940490.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8359553+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8359553+01:00",
+        "LastWriteTime": "2019-09-26T16:33:50+02:00"
+      }
+    ],
+    "FileSize": 21165,
+    "HasSound": false,
+    "Height": 492,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "40DAAA71167A0C1CEA76F5BAB5B8AC11",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 7,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "BQYHAyMQEQ0uJglENkMKgx8lKwoHBwoCLgYeAhNAPBUYyxy8308wnoIqHRcEIRABNRUODwnBFL1AvCap0BRVaJgdEjgEHwkGFSEJFQr/TDpvODogwyZjGo0bKhYGCQMECSICQgz/EHZ9MUY0wAV4GyYJDxYHAQEEAo0N2RpUA5iWBiBPeA0ksycuAdQ/AQFW",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "38A962D3AE8CF77A6DB5B99121AF7739DAEF45E1",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 480,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-before-filming-bill-and-teds-excellent-news-photo-534269212-1559940490.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-before-filming-bill-and-teds-excellent-news-photo-534269212-1559940490.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "keanu-reeves-in-cannes-.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8389473+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8389473+01:00",
+        "LastWriteTime": "2019-09-26T16:35:00+02:00"
+      }
+    ],
+    "FileSize": 55748,
+    "HasSound": false,
+    "Height": 343,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "64239C5828A57EAF3F82432BA053C4D3",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 9,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "BAMHAcgBNQWEEC4rCN1XDQFZGwQEAAAGB5pyD/ERDCd0JwheQasuOgO/KgYFAAAHGPc/PeRZHCVXOAxmoWIYUhf/MRAGCwAIJbNMGr1/IllfKis4h08TPiL/BkcJDwAGGrkWPT9yB0C1CxxcJ2oTVBBvLTkIFxEDIK4INiVFCQyXESkqEmMCSRgdCzMNKR4S",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "1FF5AB13910263B89D0E96E312994D490C6AFE95",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 610,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-in-cannes-.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-in-cannes-.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "keanu-reeves-best-movie-looks-07.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8369531+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8379505+01:00",
+        "LastWriteTime": "2019-09-26T16:34:26+02:00"
+      }
+    ],
+    "FileSize": 137883,
+    "HasSound": false,
+    "Height": 1200,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "5C14AE62F1D1D83950BDE41C24957B8D",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 3,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "CRArGQsJIyI2EjktjxdMWB6LOSQREhQILSREclEshS16Pq4RcDhYOS+LahoLOT8S/w3/bWIVoBYrUT4SYllSJD8uORQJqG8x9wUu61MVEYwkNhRATjsgMTMwHhkE5y9RoBi9QqEfmFtNJ10nMSBoDi0fLw8CfHQUNhObQVJdRWVCBhIgDwkTBQMxA04BKg+Y",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "3C964877765AF971B4501DE8570C0311F67A4E7B",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 2,
+    "Width": 800,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-best-movie-looks-07.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-best-movie-looks-07.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Author",
+        "Value": "Copyright (c) 2015 Rex Features. No use without permission."
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "keanu-reeves-knock-knock-premiere.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8399447+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8618857+01:00",
+        "LastWriteTime": "2019-09-26T16:44:34+02:00"
+      }
+    ],
+    "FileSize": 501274,
+    "HasSound": false,
+    "Height": 563,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "426B0B170DE5081963B4B19FA5DD6012",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 10,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "Ci8KMBs9DUc5cA10moYSOI6eHUNgTAgfFcALVXNdHnBbciQ+gFseZV9mPk48NB9INqE6QmlxRSpTdy5LUVYuS3MZSDQyFC0RV3cqQlnIHzOpdhY0dmU0Fn0qOCpAHCUJUbkfG37VCx+4hCkUVFEdLncROURHDyAJTNgQHmSKIESRTkUJTjCDDWIdbQYqEgoK",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "6E28E326A4A4F5F49C767716D62304FE4DE7D158",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1000,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-knock-knock-premiere.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\keanu-reeves-knock-knock-premiere.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Comment",
+        "Value": "CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 82"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "MEGJasonStatham-696x383.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8718594+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8718594+01:00",
+        "LastWriteTime": "2019-09-27T14:11:02+02:00"
+      }
+    ],
+    "FileSize": 39137,
+    "HasSound": false,
+    "Height": 383,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "AEF1E8C9CBA8FCFE666766585FFA900C",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 6,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "HAQVD74rZQck7xggCEQEFRIHBBQDCQEYhzaFCNly0gsJ/zUZCEAOBgwDDgQLAhEB6jFkL6OJPyoA/zseCEANAQkDCAgQAQcK+hulC1FJOR0H/3gMA1crAwUDJQEOASICuyQzECtWJEQ7/3tLD4xTDQgGSwIJBTgBhCEODRWSDURLvytpFJtHERoLKgMJCh0A",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "504AB090A2991FC36616AE0A09A8AC23BC7C304B",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 696,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\MEGJasonStatham-696x383.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\MEGJasonStatham-696x383.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "ImageUniqueId",
+        "Value": "adobe:docid:photoshop:5d93f5f6-b665-11e9-8e2e-f83b6a69e0e2, B563AA1671FBE8E9A26361A3865F9DE8"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-08-04 05:09:37"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "Adobe Photoshop Elements 17.0 (Windows)"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 2,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "MEGA-keanu-reeves-mullet-1120.jpg",
+        "CreationTime": "2022-02-22T15:05:36.870862+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.870862+01:00",
+        "LastWriteTime": "2019-09-26T16:34:46+02:00"
+      }
+    ],
+    "FileSize": 280250,
+    "HasSound": false,
+    "Height": 640,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "93439D045517606A00DFACB8A83A7C18",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 3,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "bwQEIeAIA3skDi0qCk0oQgX/A3lqGwMFEwUFCtEDAqBpHA2UBLcSrQOHBl57AgwEAAYGAIgBCQ6VEzAYBLZFEhZkJAKECUMhAAUGAIIBCg7gKkAbDL1fEzOdNRaDJxMtAAUFAFgFBBP/ChREEP4nLBeiHDh7EAUMAAgHASgHFwf0CAdrI+QCggJREhNoAwkD",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "21CBC9B6DDB6CAFE82D8E914AB9DA5708523862D",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1120,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\MEGA-keanu-reeves-mullet-1120.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\MEGA-keanu-reeves-mullet-1120.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "maxresdefault.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8698651+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8698651+01:00",
+        "LastWriteTime": "2019-09-26T16:34:12+02:00"
+      }
+    ],
+    "FileSize": 71081,
+    "HasSound": false,
+    "Height": 720,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "E9266C73941572CAD4B95C8009E04C21",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 5,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "IRtFAigvHQ8MQCkHarI/JGRoJjwAuS4cPx8FTD5eKTseVgZYanBNbmGeS3IZlV0TXBsEa0VHJXAWsx1s+5A8WcKlTzQ8dmcGUyk0In5bVk5IhIoxqFR5PXlNcRkuLSAHWBMsO1kvThpCWFcSZo9sY4IRG2IRGQ8KURkmPWcRCGE/IQ40FrQ2MY0mDplSBwU6",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "2B72F62A9A9653ADA119F4F57DDDBB8BA1A32A56",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1280,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\maxresdefault.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\maxresdefault.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "neo-keanu-reeves-matrix-0819-1400x800.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8728567+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8728567+01:00",
+        "LastWriteTime": "2019-09-26T16:08:08+02:00"
+      }
+    ],
+    "FileSize": 51357,
+    "HasSound": false,
+    "Height": 453,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "7AC16C58C89C8BC4CCFD34562B733D22",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 5,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "LF6sB3lEdYlICSctAw8DBQAfAQkAZAQLB548HqjfYazODSsoARoEBgAkAwYAbgcHArwdAsvTcz6sBS4PAhwOAQArFQQBaQkIAFIhAHJ6wwdPGx9QGisNMB85GzgBYx4CAAkFAAKQHSzR0ybZmZUwPKZmNWEPRBcDAAQBAAB5NgiKcf8QYz1IBUVEYwYHPgQI",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "7D39D79263C228E97D76821258B1F3450EE313BC",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 793,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\neo-keanu-reeves-matrix-0819-1400x800.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\neo-keanu-reeves-matrix-0819-1400x800.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "smile.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8768459+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8768459+01:00",
+        "LastWriteTime": "2019-09-27T12:45:58+02:00"
+      }
+    ],
+    "FileSize": 776,
+    "HasSound": false,
+    "Height": 9,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "463042A0F06C0B5DCDB19823483CF0F9",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "0933F54009A7C456249473C37DD8ACA49F71407F",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 9,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\smile.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\smile.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "stahtam.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8778434+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8778434+01:00",
+        "LastWriteTime": "2019-09-27T14:11:02+02:00"
+      }
+    ],
+    "FileSize": 32344,
+    "HasSound": false,
+    "Height": 299,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "202F3A04AFF38EC0BEA39385146CE5F9",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 10,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "ALAOSjOENFqxFwrjX3sJj3EwJDpJC0UMCYYgMyGCkgt0LqUkcI0+Te8lQh46HTwEL0FMN2VJXk9Ecmp7SUdOONQWSiI8CRgLJ31PEB5DQRAUTT4dLBwlRYsNEniDAgM9PHAcQEdVTBM/TIsHG1uhAmJEUheoEAdnazQwGWEsIj5AKTozKVlLMzy+GSwtgACw",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "45B79DFD95B4AE2385D6F880FE4B9EE9DA9529A1",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 600,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\stahtam.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\stahtam.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Produktion%20CHICBAY-2-j.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8738539+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8738539+01:00",
+        "LastWriteTime": "2019-10-09T13:26:36+02:00"
+      }
+    ],
+    "FileSize": 73891,
+    "HasSound": false,
+    "Height": 427,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "84A9356649211B88B542BA7811004AF9",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 3,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "BiwMMyBVEz9gJSxBFhU/FQMfRAgFDioJCzkbeSM/GXhsIiJ/UhIinEQlQpAmJks9MlSOGS1WaBFyLYMXQjKSKVBgX2BLJi9nP32OF0KveTaLZliPdjxVjExnmy1qJ30lIIdMGB2MejNltmJEvEFNN5NfYEAyazNAH0oaNB6wiSMshEAyuB1dJk1iMDZwI2gQ",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "56429DF1B2C3498C9E7BFCBCBDAF088CB3E9152D",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 800,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Produktion%20CHICBAY-2-j.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Produktion%20CHICBAY-2-j.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "room003.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8758488+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8758488+01:00",
+        "LastWriteTime": "2019-10-09T13:26:52+02:00"
+      }
+    ],
+    "FileSize": 247587,
+    "HasSound": false,
+    "Height": 623,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "D7C3C2986FF95B8C0A74578B4E26B5DD",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 4,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "FFYRLBQdNxofJz8eIQwSISAkECUtGBUmHSOcEBomlBAmHGQTLA27FysQzhcZR6IVOlyfoiOnZrFQVjluViJZ5jgjUe4xfzu2IVoSniM1G2Y+K0k5JEc0UoQzLjg2dj4sIUZbNFUabB9hc38dJ3VtQcgxXBg2uD8aFR4iO0ESJlc4Pi2sKj87U3YVSIMmbElz",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "80D29F13D25EFEE3DF77479F203CB87504CCEA9B",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1024,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\room003.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\room003.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "the-matrix-revolutions.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8808351+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8808351+01:00",
+        "LastWriteTime": "2019-09-26T16:07:14+02:00"
+      }
+    ],
+    "FileSize": 54236,
+    "HasSound": false,
+    "Height": 532,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "9A398C3C4627F2C7538A2B3565C759EF",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 5,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "ATkfAjSiahu0P3A7nT4+j0v/MjksXyocKhgSLg9rXQmhSGM2diFcRzL/Ki9DLkUGQwEBUkUXIj8vO1AaaCRHIxPTOVFFIz9LNwIDNGIGAEZtEysugiiABxj8uQpNIH0MGAgSCGgBHhfwAp0NWwxOAgmIgwMWirYOEAUFCdoASAGTAWcADgQHBgMLDAMCalcA",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "2B6F545AC42D31F5962E0E44CAE9E3924CB30874",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 956,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\the-matrix-revolutions.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\the-matrix-revolutions.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Unbenannt.png",
+        "CreationTime": "2022-02-22T15:05:36.8868186+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8878168+01:00",
+        "LastWriteTime": "2019-09-26T16:06:46+02:00"
+      }
+    ],
+    "FileSize": 43013,
+    "HasSound": false,
+    "Height": 259,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "3CE8E7A81A50B633D8C72167D4438A57",
+    "MimeType": "image/png",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "FSUeG6AyYD0tRzDeJRUb/1ENMNcsUG0mQJ52CoKaVVIOXlVHESFjRasMTlKZHikbFHUkOSeBP00kN2VSNidwYo8gWkGCHxU9H5AJPW83RkgzKaI2Ij2mKkdJcVGQGxh/GUUgGmYtO0tbH1SXKG9JkyNaGVtWGR48HgYKKA43ET5FRi6uam9pfjMpFiIZCAYf",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "851D6AC3242B327D1377F50E645F947AA6D508AF",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 195,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt.png",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt.png",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "turkei-istanbul-sultan-ahmet-moschee-gebetsraum-moschee-innen-religion-glauben-beten-islam-niemand-h474gf.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8858216+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8868186+01:00",
+        "LastWriteTime": "2019-09-27T15:05:36+02:00"
+      }
+    ],
+    "FileSize": 358692,
+    "HasSound": false,
+    "Height": 956,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "D3F201F63AAB7404D7F5E955D0CD1933",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 3,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "GyAmLw0tCTwiVFBEU1alYmA3VFwzFBwhEhwGTw4lBjMxPjk4TUpjiE9KR65AHBJpOVclWDczGEQoOCVXI2Yni3xVend8OFNnRDQmckM4JGkngRqlU3UQoMtIQKp6Jl5iRiUuIT5VR1gWi0lRVzZoJ7hPhEjHLYBbCgpMCQcYbSEDGMcHOxXpA0sQshYnAl8h",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "28C5186F2DAE49282B7927E09194C485A8E2E6E7",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1300,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\turkei-istanbul-sultan-ahmet-moschee-gebetsraum-moschee-innen-religion-glauben-beten-islam-niemand-h474gf.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\turkei-istanbul-sultan-ahmet-moschee-gebetsraum-moschee-innen-religion-glauben-beten-islam-niemand-h474gf.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "samsung"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "SM-G930F"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2019-01-29 11:51:17"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "G930FXXU3ESA3"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "20190129_115117.jpg",
+        "CreationTime": "2022-02-22T15:05:36.9476565+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9526426+01:00",
+        "LastWriteTime": "2019-01-29T12:44:10+01:00"
+      }
+    ],
+    "FileSize": 12352177,
+    "HasSound": false,
+    "Height": 3760,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "7D15080ACE47C94D9A0C2361F62F7038",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "WWMwX3gMAF0DUwVNPygQWD4ZCEsIThUiS+l9R284EaAZVAHqLhYBlksUBLorSAyGPapQbBjAQIcobjChSAgkvk0OJp6UMzlgEzYMThNziSUTVK0JQSCQDpUQxxyrIJMfFwsSBV8cUgYOhn4IFxhDAmUGP1qpHjVMEgkYAGYVFw8NeSggChQqACEAMQKhACoD",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "0A924A188477BAB8F3B257F9337B5995B4E97691",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 12608,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190129_115117.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\20190129_115117.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Unbenannt2.png",
+        "CreationTime": "2022-02-22T15:05:36.8898107+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8898107+01:00",
+        "LastWriteTime": "2019-09-26T16:08:38+02:00"
+      }
+    ],
+    "FileSize": 77785,
+    "HasSound": false,
+    "Height": 168,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "8106DD72FA5AE2B4EBD1665A5D4B36BF",
+    "MimeType": "image/png",
+    "NudityLevel": 5,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "lBMoJpQzURyeqk9kqXIlQjhZEjokQCAXqBhFMcwxay9WsU1XtFUuSS1/ICFWMSoqiTJeLKdELVxUfGQiblo1KCxwGzZeGQ07gFlNOYlBCEqEdRt9YoYmaVFpIkAqKx0eKnMkK2wnZhGUq0lAg1g6PTg+cg8sLkkPSjc0BVAPYQBRuUUQhkMsFjQZIwQsOx4V",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "10D3DFAAB7F0DB19958478539016F852CB65DD52",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 300,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt2.png",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt2.png",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Author",
+        "Value": "TRAPPL PETER"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Make",
+        "Value": "PENTAX"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Model",
+        "Value": "PENTAX K-5"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "ImageUniqueId",
+        "Value": "xmp.did:5C511A0B0DFFE011B71990AB8D9D4458"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "CreateDate",
+        "Value": "2011-10-16 08:12:25"
+      },
+      {
+        "TagGroup": "EXIF",
+        "Tag": "Software",
+        "Value": "Adobe Photoshop Elements 9.0 Windows, K-5 Ver 1.11"
+      }
+    ],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 2,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "sultan-ahmed-moschee-blaue-moschee-4fffba43-c2c7-47ea-bf57-845af6dd22b6.jpg",
+        "CreationTime": "2022-02-22T15:05:36.8788402+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8798655+01:00",
+        "LastWriteTime": "2019-09-27T15:05:42+02:00"
+      }
+    ],
+    "FileSize": 1184575,
+    "HasSound": false,
+    "Height": 1080,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "664E855E8FF298D43E217BBEEC861DE6",
+    "MimeType": "image/jpeg",
+    "NudityLevel": 5,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "AmADNTk3B15KGStgJ0I2aBZaBUyGCAJhBqESLUg5HDApQwl+YDEIsyt6DjbBJxVYDWgqHSJZZxwSiDpDeylZUoCJYUjFMoE4HhooHxJKNSAMX14iSxJ6LkccSh46K00aIDozryZAFJ4XWC55VCY0mGolFmKdGlQsD1P/YzU2818egoF2VDFghX4XOEZvEyty",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "54959399F4EAEBE45BC398B4D1D15A5B2DB23974",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 1631,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\sultan-ahmed-moschee-blaue-moschee-4fffba43-c2c7-47ea-bf57-845af6dd22b6.jpg",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\sultan-ahmed-moschee-blaue-moschee-4fffba43-c2c7-47ea-bf57-845af6dd22b6.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Unbenannt6.png",
+        "CreationTime": "2022-02-22T15:05:36.8928029+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8928029+01:00",
+        "LastWriteTime": "2019-09-26T16:42:54+02:00"
+      }
+    ],
+    "FileSize": 76418,
+    "HasSound": false,
+    "Height": 159,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "0E64CA042B7EFEC52BAFF142256F9AFB",
+    "MimeType": "image/png",
+    "NudityLevel": 11,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "XCxEEFmzJh8vQZAJmA1yD0WINQ4BSBMGHy0IHkpyCVNlSiOAoiwnSkyeGD4GYQoSJ0MLGDl9JBlNMicruCozH2ipHi0NRQoWnDcGNGBwJBtlTkkJsipNG0n/KXBEMQKPtVcIFLFoDh09LEgJrSNIFyb/MB0lKxUTh1IRFa9BHxIsESwNkiQnJx3/bAoLZi4B",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "2077D24CE364E2D798DDC68FBB41EC3674EDC010",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 318,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt6.png",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt6.png",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Unbenannt4.png",
+        "CreationTime": "2022-02-22T15:05:36.8918059+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8918059+01:00",
+        "LastWriteTime": "2019-09-26T16:42:44+02:00"
+      }
+    ],
+    "FileSize": 91844,
+    "HasSound": false,
+    "Height": 194,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "18CF6E0FD08A19FB8A68E4DD14731CFB",
+    "MimeType": "image/png",
+    "NudityLevel": 10,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "DAQTAIEHSwl8H4hcEHmPPgJPKgQCCAgADzsfDKU+IytTeE3Kd0JS2CqeMEYaCQgTECAZCjsrDjhBRVGGUTBYg1JzZzRMI0sFVE6OLBhIUwxELIclayyQJX1OeiNgOXkvmDCLXiVtjhNoU2dnf1lOboqId1pmL6xugxlNOBVVRA0ebWoPVBhyE3oYSjMmY0NC",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "821E0A429539D3F870B18C825794D76042A015FE",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 259,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt4.png",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt4.png",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Unbenannt3.png",
+        "CreationTime": "2022-02-22T15:05:36.890809+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.890809+01:00",
+        "LastWriteTime": "2019-09-26T16:32:32+02:00"
+      }
+    ],
+    "FileSize": 203125,
+    "HasSound": false,
+    "Height": 390,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "4997FAFF8F4ED5528DB0F751E8C6317F",
+    "MimeType": "image/png",
+    "NudityLevel": 11,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "Eg0EIbYPdyBaGntpGTGfWwfE1AsTRSQCNxErCON4TkMXfA/SjAQK3HuwLkAFoiQCNxANCIuCGVcTajorggo9JqyFFDABvAkPEg8CBEI/GSUXLS8WYxM7HXN0J0oEgAYaDQ0RAE8iPRcfKkMYZhRLFzGmOUYBQxgXUQe7AEB5eRIcLB1GYRcURVRfmhIBWu0D",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "CADFC2E762BF32281958A931B46DA67BABB9477A",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 390,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt3.png",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt3.png",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Unbenannt7.png",
+        "CreationTime": "2022-02-22T15:05:36.8938008+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8948248+01:00",
+        "LastWriteTime": "2019-09-26T16:43:04+02:00"
+      }
+    ],
+    "FileSize": 78048,
+    "HasSound": false,
+    "Height": 278,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "0FEB8DD8C1C6CB24EB03A68A03BADF51",
+    "MimeType": "image/png",
+    "NudityLevel": 11,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "RQEmF3gmiSdNHlOSIBiBzxx4i4AJZlQUhgY0KVFuH1gUOCRVFyIod1YqMH0ZeBo2OxVqNz84IzIbICUgFicqGkEpaDMMPjYcE8WLLGteLVgUKUwwKhlAHrcxhR8XcfoVBP8HM1JZAnM8EwZoTUcRjv8NJjEmFSEeAP8BOCM9BCs5MQFzlDIoRvMAPwYNAgkD",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "6AB10B86A6EEFD5524E2EE6E6F6EDF423A12B6C5",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 181,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt7.png",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt7.png",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Unbenannt_1.png",
+        "CreationTime": "2022-02-22T15:05:36.8888379+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8888379+01:00",
+        "LastWriteTime": "2019-09-27T14:10:44+02:00"
+      }
+    ],
+    "FileSize": 77581,
+    "HasSound": false,
+    "Height": 267,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "12A854A7ED72CCC5B52DA5054393034A",
+    "MimeType": "image/png",
+    "NudityLevel": 10,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "BjQwFQWzDaIAPwCLGQQAcogAAJpzBQROAnAGFgDTJCYBQR8cJQcaInoAHR3JAxc4BXYcGgl6e2kXdoxEWBWgPVQOpk55OEtVBV4lGQnBZUkcPzVGNR8sTpUIUVZxJ34YCGcCRlSpQnoOY1IaWBJdE5g6YmFyEBNLDKYNE3eGEY9ELkeINEROo4piN5FyAxoa",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "B77F7D17F324563A7CC621A53E921633F56F1A35",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 189,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt_1.png",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Unbenannt_1.png",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Image",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "3d85956b32272c618b7fa3d436db1662.wdp",
+        "CreationTime": "2022-02-22T15:05:36.8967922+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8967922+01:00",
+        "LastWriteTime": "2019-09-26T16:08:44+02:00"
+      }
+    ],
+    "FileSize": 15127,
+    "HasSound": false,
+    "Height": 487,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": false,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "0E09B3A0E3105707320868692EDDAD21",
+    "MimeType": "image/jxr",
+    "NudityLevel": 0,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "BCD24A72FA5EF04D447C6B0B7745388C02B41F8F",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 0.0,
+    "VisualDuplicatesCount": 1,
+    "Width": 650,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\3d85956b32272c618b7fa3d436db1662.wdp",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img\\3d85956b32272c618b7fa3d436db1662.wdp",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": []
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 1
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Video",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Keanu-Reeves-saying-wake-up-samurai-in-Japanese.mp4",
+        "CreationTime": "2022-02-22T15:05:36.8628821+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8678695+01:00",
+        "LastWriteTime": "2019-09-27T12:12:32+02:00"
+      }
+    ],
+    "FileSize": 465747,
+    "HasSound": true,
+    "Height": 258,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": true,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "B6107E21622F533F0864B079DEF1FBB0",
+    "MimeType": "video/mp4",
+    "NudityLevel": 2,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "1A0F030CFE4EB080306C0BC35768A2BFE8D826AB",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 9.892,
+    "VisualDuplicatesCount": 1,
+    "Width": 460,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Keanu-Reeves-saying-wake-up-samurai-in-Japanese.mp4",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Converted\\1A\\0F\\1A0F030CFE4EB080306C0BC35768A2BFE8D826AB.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": [],
+    "FrameContainer": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Converted\\1A\\0F\\1A0F030CFE4EB080306C0BC35768A2BFE8D826AB.fc"
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Video",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "Time-is---continue-the-phrase.mp4",
+        "CreationTime": "2022-02-22T15:05:36.8818331+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.8848237+01:00",
+        "LastWriteTime": "2019-09-27T12:14:06+02:00"
+      }
+    ],
+    "FileSize": 1362188,
+    "HasSound": true,
+    "Height": 304,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": true,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "73CB8BB9315C5180B376AD9B26F9D6B1",
+    "MimeType": "video/mp4",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "A535DA1E02D4A9C39AAD38E0920DBDEEF4CB0377",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 27.767,
+    "VisualDuplicatesCount": 1,
+    "Width": 460,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\Time-is---continue-the-phrase.mp4",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Converted\\A5\\35\\A535DA1E02D4A9C39AAD38E0920DBDEEF4CB0377.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": [],
+    "FrameContainer": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Converted\\A5\\35\\A535DA1E02D4A9C39AAD38E0920DBDEEF4CB0377.fc"
+  },
+  {
+    "AppData": [
+      {
+        "AppName": "CameraForensics",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "FaceDetection",
+        "StringData": "",
+        "IntData": 0
+      },
+      {
+        "AppName": "SocialMediaDetector",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "KeywordMatching",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "ReverseGeocoding",
+        "StringData": "",
+        "IntData": -1
+      },
+      {
+        "AppName": "CameraId",
+        "StringData": "",
+        "IntData": -1
+      }
+    ],
+    "Bookmarks": [],
+    "Category": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "Comments": [
+      {
+        "Value": ""
+      }
+    ],
+    "DatabaseMatches": [],
+    "Distributed": null,
+    "Exif": [],
+    "ExifSerialNumber": null,
+    "ExifThumbnailCount": 0,
+    "FileClass": "Video",
+    "Files": [
+      {
+        "Deleted": false,
+        "Overwritten": false,
+        "SourceID": "test_img",
+        "DisplayDirectory": "test_img",
+        "DisplayFilename": "148-John-Wick.mp4",
+        "CreationTime": "2022-02-22T15:05:36.9037732+01:00",
+        "LastAccessTime": "2022-02-22T15:05:36.9446637+01:00",
+        "LastWriteTime": "2019-09-27T12:13:28+02:00"
+      }
+    ],
+    "FileSize": 5893559,
+    "HasSound": true,
+    "Height": 258,
+    "InitialCategory": {
+      "Name": "unkategorisiert",
+      "Identifier": 6
+    },
+    "IsAnimated": true,
+    "Latitude": null,
+    "Longitude": null,
+    "Md5Hex": "E497C6B843990B4FAAA6BB65E3DB81BA",
+    "MimeType": "video/mp4",
+    "NudityLevel": 1,
+    "OffenderIdentified": null,
+    "PhotoDnaBase64": "",
+    "Representative": false,
+    "Series": [],
+    "Sha1Hex": "115114D2702BFD343991FEB25931D5696CB33A7C",
+    "Sha256Hex": "",
+    "Sha384Hex": "",
+    "Sha512Hex": "",
+    "Tags": [],
+    "VictimIdentified": null,
+    "VideoLength": 108.693,
+    "VisualDuplicatesCount": 1,
+    "Width": 460,
+    "FilepathOriginal": "D:\\Daten\\GriffeyeDevTesting\\test_img\\148-John-Wick.mp4",
+    "FilepathConverted": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Converted\\11\\51\\115114D2702BFD343991FEB25931D5696CB33A7C.jpg",
+    "OutputDirectory": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Plugin\\NewPlugin",
+    "CustomPropertyValues": [],
+    "FrameContainer": "D:\\Daten\\GriffeyeDevTesting\\test_img_case\\Converted\\11\\51\\115114D2702BFD343991FEB25931D5696CB33A7C.fc"
+  }
+]

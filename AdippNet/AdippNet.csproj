@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Adipp - Analyze DI Pro Plugin</Title>
+        <Authors>Constantin Weber</Authors>
+        <PackageLicenseUrl>https://rem.mit-license.org/</PackageLicenseUrl>
+        <PackageLicense>https://rem.mit-license.org/</PackageLicense>
+        <PackageProjectUrl>https://github.com/con-web/AdippNet</PackageProjectUrl>
+        <PackageVersion>1.0.6</PackageVersion>
+        <AssemblyVersion>1.0.6</AssemblyVersion>
+        <FileVersion>1.0.6</FileVersion>
+    </PropertyGroup>
+
+</Project>

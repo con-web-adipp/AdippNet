@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Name": "socialMedia",
+    "SearchTerms": [
+      "tiktok",
+      "whatsApp"
+    ]
+  },
+  {
+    "Name": "software",
+    "SearchTerms": [
+      "\\.apk",
+      "emoji"
+    ]
+  },
+  {
+	  "Name": "test",
+	  "SearchTerms": [
+	  "content",
+	  "Virtualized"
+	  ]
+  }
+]
