@@ -39,4 +39,4 @@ jobs:
       - name: Push to Nuget
         run: |
           cd D:\a\${{ env.PROJECT_NAME }}\${{ env.PROJECT_NAME }}\${{ env.PROJECT_NAME }}\bin\x64\Release\
-          nuget push "${{ env.PROJECT_NAME }}.${{ github.event.inputs.version }}.nupkg" --api-key ${{ secrets.NUGET_PAT }} -source "github"
+          dotnet nuget push "${{ env.PROJECT_NAME }}.${{ github.event.inputs.version }}.nupkg" --api-key ${{ secrets.NUGET_PAT }} -source "github"
