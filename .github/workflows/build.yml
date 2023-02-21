@@ -66,5 +66,5 @@ jobs:
         run: nuget install NUnit.ConsoleRunner -Version 3.16.2 -DirectDownload -OutputDirectory .   
 
       - name: Run UnitTests
-        run: ./NUnit.ConsoleRunner.3.16.2/tools/nunit3-console.exe  D:\a\${{ env.PROJECT_NAME }}\${{ env.PROJECT_NAME }}\Tests\bin\x64\Release\net6.0\Tests.dll
+        run: ./NUnit.ConsoleRunner.3.16.2/tools/nunit3-console.exe  D:\a\${{ env.PROJECT_NAME }}\${{ env.PROJECT_NAME }}\Tests\bin\x64\Release\net6.0\Tests.dll --domain=D:\a\${{ env.PROJECT_NAME }}\${{ env.PROJECT_NAME }}\Tests\bin\x64\Release\net6.0\
           
