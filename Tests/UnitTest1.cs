@@ -5,6 +5,8 @@ namespace Tests;
 
 public class Tests
 {
+    string cwd = Path.Combine(TestContext.CurrentContext.TestDirectory);
+    
     [Test]
     public void AccessDataFromFrontendFunc()
     {
@@ -54,9 +56,9 @@ public class Tests
                 placeholder = file.CustomPropertyValues;
             }
         }
+
+
         
-        
-        var cwd = AppDomain.CurrentDomain.BaseDirectory;
         var plugin = new Adipp(Path.Combine(cwd, "test_input.json"));
         
         // Act
@@ -81,7 +83,6 @@ public class Tests
             file.AddCustomProperty(new CustomProperty(){Id = 0, Value = "testValue"});
         }
         
-        var cwd = AppDomain.CurrentDomain.BaseDirectory;
         var plugin = new Adipp(Path.Combine(cwd, "test_input.json"));
         
         // Act
@@ -97,9 +98,10 @@ public class Tests
 
     [Test]
     public void TestWatchList()
-    {
+    {   
+
         // Arrange
-        var watchlist = new Watchlist("watchlist.json");
+        var watchlist = new Watchlist(Path.Combine(cwd, "watchlist.json"));
         
         void WatchlistSearch(MediaFile file)
         {
@@ -110,8 +112,6 @@ public class Tests
             }
         }
         
-        
-        var cwd = AppDomain.CurrentDomain.BaseDirectory;
         var plugin = new Adipp(Path.Combine(cwd, "test_input.json"));
         
         // Act
