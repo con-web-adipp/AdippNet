@@ -5,6 +5,8 @@ namespace Tests;
 
 public class Tests
 {
+    string cwd = Path.Combine(TestContext.CurrentContext.TestDirectory);
+    
     [Test]
     public void AccessDataFromFrontendFunc()
     {
@@ -56,7 +58,6 @@ public class Tests
         }
 
 
-        var cwd = Path.Combine(TestContext.CurrentContext.WorkDirectory, "Tests/bin/x64/Release/net6.0/");
         var plugin = new Adipp(Path.Combine(cwd, "test_input.json"));
         
         // Act
@@ -81,7 +82,7 @@ public class Tests
             file.AddCustomProperty(new CustomProperty(){Id = 0, Value = "testValue"});
         }
         
-        var cwd = Path.Combine(TestContext.CurrentContext.WorkDirectory, "Tests/bin/x64/Release/net6.0/");
+
         var plugin = new Adipp(Path.Combine(cwd, "test_input.json"));
         
         // Act
@@ -98,7 +99,6 @@ public class Tests
     [Test]
     public void TestWatchList()
     {   
-        var cwd = Path.Combine(TestContext.CurrentContext.WorkDirectory, "Tests/bin/x64/Release/net6.0/");
 
         // Arrange
         var watchlist = new Watchlist(Path.Combine(cwd, "watchlist.json"));
