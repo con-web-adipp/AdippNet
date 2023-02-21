@@ -40,3 +40,4 @@ jobs:
         run: |
           cd D:\a\${{ env.PROJECT_NAME }}\${{ env.PROJECT_NAME }}\${{ env.PROJECT_NAME }}\bin\x64\Release\
           dotnet nuget push "${{ env.PROJECT_NAME }}.${{ github.event.inputs.version }}.nupkg" --api-key ${{ secrets.NUGET_PAT }} --source "https://nuget.pkg.github.com/con-web-adipp/index.json"
+          nuget push "${{ env.PROJECT_NAME }}.${{ github.event.inputs.version }}.nupkg" ${{ secrets.NUGET_API_KEY }} -Source https://api.nuget.org/v3/index.json
