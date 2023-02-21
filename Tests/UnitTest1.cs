@@ -58,7 +58,6 @@ public class Tests
         }
 
 
-        
         var plugin = new Adipp(Path.Combine(cwd, "test_input.json"));
         
         // Act
@@ -83,6 +82,7 @@ public class Tests
             file.AddCustomProperty(new CustomProperty(){Id = 0, Value = "testValue"});
         }
         
+
         var plugin = new Adipp(Path.Combine(cwd, "test_input.json"));
         
         // Act
